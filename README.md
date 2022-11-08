@@ -3,7 +3,7 @@
 
 Este repositorio contiene los siguientes elementos:
 * Carpeta con el proyecto de regresión logística modelado en C++
-* El enlace al cuaderno de Google Colab donde se incluye: Selección del dataset, el EDA, el modelo de regresión logística en Python, la selección de métricas de rendimiento, la comparación de ambos modelos, recomendaciones, conclusiones, referencias, toda la documentación necesaria y actividades necesarias que no se hayan mencionado.
+* El enlace al cuaderno de Google Colab donde se incluye: Selección del dataset, el EDA, el modelo de regresión logística en Python, la selección de métricas de rendimiento, la comparación de ambos modelos, recomendaciones, conclusiones, referencias, toda la documentación necesaria y actividades adicionales que no se hayan mencionado.
 
 ### _**Enlace al cuaderno de colab:**_
 
