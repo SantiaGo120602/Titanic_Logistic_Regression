@@ -1,0 +1,3 @@
+/home/santiago/Documentos/HPC2/logisticProject/Debug/CMakeFiles/logisticProject.dir
+/home/santiago/Documentos/HPC2/logisticProject/Debug/CMakeFiles/edit_cache.dir
+/home/santiago/Documentos/HPC2/logisticProject/Debug/CMakeFiles/rebuild_cache.dir
