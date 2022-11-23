@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ModeloCPP.dir/main.cpp.o CMakeFiles/ModeloCPP.dir/Extraction/extraction.cpp.o CMakeFiles/ModeloCPP.dir/RegressionLogistic/regressionlogistic.cpp.o -o ModeloCPP 

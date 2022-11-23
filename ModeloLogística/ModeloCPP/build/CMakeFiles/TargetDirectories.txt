@@ -1,0 +1,3 @@
+/home/santiago/ModeloCPP/build/CMakeFiles/ModeloCPP.dir
+/home/santiago/ModeloCPP/build/CMakeFiles/edit_cache.dir
+/home/santiago/ModeloCPP/build/CMakeFiles/rebuild_cache.dir
