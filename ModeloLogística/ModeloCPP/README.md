@@ -7,7 +7,7 @@ de la arquitectura y el sistema operativo de la máquina que se este usando. Por
 
 # **Contrucción del proyecto**
 
-* Lo siguiente es una guía para construir uel proyecto desde su computadora.
+* Lo siguiente es una guía para construir el proyecto desde su computadora.
 
 * Requerimientos: CMake, MAKE, g++ u otro compilador de C++
 
