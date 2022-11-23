@@ -5,7 +5,7 @@
 * El programa contiene una carpeta llamad build, con el binario "ModeloCpp" sin embargo es posible que intentar ejecutar este binario no sea posible dependiendo
 de la arquitectura y el sistema operativo de la máquina que se este usando. Por esto, a continuación se mostrará como construir el proyecto usando CMake.
 
-# **Contrucción del proyecto**
+# **Construcción del proyecto**
 
 * Lo siguiente es una guía para construir el proyecto desde su computadora.
 
